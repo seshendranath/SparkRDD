@@ -1,0 +1,8 @@
+Package: SparkRDD
+Type: Package
+Title: SparkR extension for using Spark RDD
+Version: 0.0.1
+Date: 2015-06-29
+Author: Koji MAKIYAMA(@hoxo_m)
+Maintainer: Koji MAKIYAMA <hoxo.smile@gmail.com>
+Description: SparkR extension for using Spark RDD.
